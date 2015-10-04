@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=cyfra
+comment1.target=void\ dodajCyfre(int)
+comment1.text=\r\n\ "wynik"\ przyjmuje\ warto\u015B\u0107\ na\ podstawie\ klawisza\ operator\u00F3w\:\r\n\ 1\ -\ dodawanie\r\n\ 2\ -\ odejmowanie\r\n\ 3\ -\ mno\u017Cenie\r\n\ 4\ -\ dzielenie\r\n\ P\u00F3\u017Aniej\ wykorzystany\ jest\ po\ kliknieciu\ znaku\ r\u00F3wno\u015Bci.\r\n\ Sam\ spos\u00F3b\ ustawiania\ liczb\ nie\ wymaga\ t\u0142umaczenia\ ;-)\r\n
+comment2.params=wynik\ operator
+comment2.target=void\ ustawZnak(int,\ char)
+comment3.params=
+comment3.target=void\ razem()
+comment4.params=
+comment4.target=void\ kasuj()
+numComments=5
